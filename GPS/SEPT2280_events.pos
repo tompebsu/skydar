@@ -1,0 +1,10 @@
+% program   : ES 1.2
+% inp file  : /Users/tamalaku/Desktop/SEPT2280.22O
+% inp file  : /Users/tamalaku/Desktop/SEPT2280.22N
+% inp file  : /Users/tamalaku/Downloads/rinex_Reach4Stars_raw_202208161623/Reach4Stars_raw_202208161623.22O
+% obs start : 2022/08/16 16:24:17.0 GPST (week2223 231857.0s)
+% obs end   : 2022/08/16 16:30:07.0 GPST (week2223 232207.0s)
+% ref pos   : 43.600235042-116.197021142  820.8524
+%
+% (lat/lon/height=WGS84/ellipsoidal,Q=1:fix,2:float,3:sbas,4:dgps,5:single,6:ppp,ns=# of satellites)
+%  GPST                  latitude(deg) longitude(deg)  height(m)   Q  ns   sdn(m)   sde(m)   sdu(m)  sdne(m)  sdeu(m)  sdun(m) age(s)  ratio

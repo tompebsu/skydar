@@ -1,0 +1,8 @@
+skydar_data
+./skydar_data
+*.png
+sfm 
+./sfm
+sfm/*
+sfm/*/*
+.DS_Store 
